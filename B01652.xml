@@ -1,0 +1,532 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A present for children. Being a brief, but faithful account of many remarkable and excellent things utter'd by three young children, to the wonder of all that heard them. To which is added a seasonable exhortaion to parents, for the education of their children. / By a person of quality. Published by William Bidbanck, M.A.</title>
+            <author>Bidbanck, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 43 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01652</idno>
+            <idno type="STC">Wing B2864AA</idno>
+            <idno type="STC">ESTC R172962</idno>
+            <idno type="EEBO-CITATION">51784387</idno>
+            <idno type="OCLC">ocm 51784387</idno>
+            <idno type="VID">174812</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01652)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174812)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2700:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A present for children. Being a brief, but faithful account of many remarkable and excellent things utter'd by three young children, to the wonder of all that heard them. To which is added a seasonable exhortaion to parents, for the education of their children. / By a person of quality. Published by William Bidbanck, M.A.</title>
+                  <author>Bidbanck, William.</author>
+               </titleStmt>
+               <extent>82 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.D. for Jonathan Robinson ...,</publisher>
+                  <pubPlace>London;</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written and published by William Bidbanck. Cf. Wing (2nd ed.).</note>
+                  <note>Imperfect: tight binding with some loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Children --  Death --  Religious aspects --  Early works to 1800.</term>
+               <term>Christian life --  Juvenile literature --  Early works to 1800.</term>
+               <term>Children --  Religious life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174812:1"/>
+            <pb facs="tcp:174812:1" rendition="simple:additions"/>
+            <pb facs="tcp:174812:2" rendition="simple:additions"/>
+            <pb facs="tcp:174812:2"/>
+            <p>A PRESENT FOR CHILDREN.</p>
+            <p>Being a brief, but faithful Ac<g ref="char:EOLhyphen"/>count of many remarkable and excellent things utter'd by three young Children, to the Won<g ref="char:EOLhyphen"/>der of all that heard them.</p>
+            <p>To which is added a ſeaſonable Exhortation to Parents, for the Education of their Children.</p>
+            <p>By a Perſon of Quality.</p>
+            <p>Publiſhed by <hi>William Bidbanck,</hi> M. A.</p>
+            <q>But who is their Father? <bibl>1 Sam. 10. 12.</bibl>
+            </q>
+            <q>Out of the Mouths of Babes and Sucklings thou haſt perfected Praiſe. <bibl>Mat. 21. 16.</bibl>
+            </q>
+            <p>
+               <hi>London;</hi> Printed by <hi>J. D.</hi> for <hi>Jonathan Robinſon,</hi> at the Golden Lion in St. <hi>Paul</hi>'s Church-Yard. 1685.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:174812:3"/>
+            <pb n="5" facs="tcp:174812:3"/>
+            <head>To the Reader.</head>
+            <p>THE end of this Pub<g ref="char:EOLhyphen"/>lication is not pri<g ref="char:EOLhyphen"/>vate, or ſiniſter, but for publick Good: God's Glory, that his Name may be exalted, and thy Good, that thou mayſt reap ad<g ref="char:EOLhyphen"/>vantage hereby, is deſign<g ref="char:EOLhyphen"/>ed. What has been ſeen or heard, is thus made more manifeſt, that you may have Fellowſhip with us. Accept it with all Candor, and be thankful to God
+<pb n="6" facs="tcp:174812:4"/> for ſuch wonderful Works. You are not impoſed up<g ref="char:EOLhyphen"/>on: Theſe things were not done in a Corner, e<g ref="char:EOLhyphen"/>ſpecially the Relation of <hi>Mary Stubbs,</hi> who had ſo many Viſiters that can at<g ref="char:EOLhyphen"/>teſt the Truth of what is here written.</p>
+            <p>And the other likewiſe had many Witneſſes; and are added, that in the Mouth of two or three Witneſſes we may be the more confirmed.</p>
+            <closer>
+               <signed>W. B.</signed>
+               <dateline>
+                  <hi>Denton,</hi> 
+                  <date>
+                     <hi>Sept.</hi> 2. 1684</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="to_the_children">
+            <pb n="7" facs="tcp:174812:4"/>
+            <head>TO Little Children</head>
+            <p>VVHat ſhall I ſay to you? You have here much ſpo<g ref="char:EOLhyphen"/>ken to you, it is for you eſpecially that theſe Re<g ref="char:EOLhyphen"/>lations are thus publiſhed. Here you may be taught <hi>the Fear of the Lord, which is the begin<g ref="char:EOLhyphen"/>ning of Wiſdom.</hi>
+            </p>
+            <list>
+               <item>1. To pray unto God betimes, in whom you do live, move, and have your being.</item>
+               <pb n="8" facs="tcp:174812:5"/>
+               <item> 2. To have an high Eſteem of the Word of God, the Holy Scriptures, <hi>which are able to make us wiſe unto Salvation:</hi> 2 Tim. 3. 15.</item>
+               <item>3. To keep the Lord's-Day ſtrictly.</item>
+               <item>4. To love God's Servants, to love the Brethren, and God's Miniſters greatly.</item>
+               <item>5. To conſider the Joy which is to be had in the ways of Wiſ<g ref="char:EOLhyphen"/>dom.</item>
+               <item>6. What need we have now without delay to prepare for Death and Eternity.</item>
+               <item>7. To have Faith and <g ref="char:V">Ʋ</g>nion with Jeſus Chriſt, who is ſo willing to embrace little Chil<g ref="char:EOLhyphen"/>dren.</item>
+            </list>
+            <pb n="9" facs="tcp:174812:5"/>
+            <p> Oh! put theſe things into Practice; do not look upon them as idle Stories.</p>
+            <p>Dare not to live Prayer-leſs, or to profane God's Holy-Day: See the contrary in theſe little Ones.</p>
+            <p>Say not, you are too young: your eternal Welfare depends hereon: You are capable of great things betimes, your Souls are of a no<g ref="char:EOLhyphen"/>ble Extraction.</p>
+            <p>You are capable of better things than Play and mere Vanities, and you are made for higher things: It is the Miſery of the Perſon, when the Body overcomes the Soul.</p>
+            <p>It is noble indeed where Rea<g ref="char:EOLhyphen"/>ſon, and heavenly Light and Knowledg, overcome theſe bodily
+<pb n="10" facs="tcp:174812:6"/> Pleaſures: There are Pleaſures which are for evermore.</p>
+            <p>The Soul and Spirit ſhould (like the Fire) aſcend up to Heaven naturally, but it is clou<g ref="char:EOLhyphen"/>ded and overcome.</p>
+            <p>The Soul can never have Reſt till it come to God.</p>
+            <p>We are indeed born like the wild Aſſes Colt; <hi>Job</hi> 11. 12.</p>
+            <p>We are Veſſels full of bad Li<g ref="char:EOLhyphen"/>quor, as a Heathen could ſay; we are prepoſſeſſed with Evil.</p>
+            <p>Oh! ſtudy the Corruption of Nature, and the Neceſſity of Grace from above.</p>
+            <p>Be not diſcouraged in reading; God can make you ſuch as theſe were.</p>
+            <p>You may be Men and Women betimes, when Children as to
+<pb n="11" facs="tcp:174812:6"/> your Bodies, by Knowledge, Faith, and Love.</p>
+            <p>If you go on in Sin, you muſt undo all again, or elſe for ever be miſerable.</p>
+            <p>Follow theſe Examples, and you ſhall be happy in Life, the Joy of Parents, and most com<g ref="char:EOLhyphen"/>fortable in a dying hour to your ſelves and them likewiſe.</p>
+            <p>Oh! the difference between a Child that ſwears, and lies, and is profane, and another that fears to lie, but loves the Truth, and trembles to hear an Oath ſworn: The former is the Child of the Devil, and the latter a Child of God.</p>
+            <p>You might have been made Toads or Brutes, and better to have been ſuch, than to live
+<pb n="12" facs="tcp:174812:7"/> and die in your Sins.</p>
+            <p>The Condition of thoſe that know God betimes, is ſo deſi<g ref="char:EOLhyphen"/>rable, that if any are to be envi<g ref="char:EOLhyphen"/>ed, ſuch are; as <hi>Joſeph, Samuel,</hi> and <hi>David,</hi> Pſal. 71. 17, 18.</p>
+            <p>How lamentable is their Con<g ref="char:EOLhyphen"/>dition in the <hi>Proverbs,</hi> who hate Inſtruction! <hi>Prov.</hi> 5. 12, 13.</p>
+            <p>If you know God betimes, if you die young, and very young, you ſhall be with God, be ready for that great Change: And if you live, you may do great things for God; you may be eminent in your Generation; you may be like a Cedar in <hi>Lebanon.</hi>
+            </p>
+            <p>Objection.</p>
+            <p>Many will ſay, That young
+<pb n="13" facs="tcp:174812:7"/> Saints prove very bad in Age, and old Sinners.</p>
+            <p>Anſwer.</p>
+            <p>There is ſuch a wicked Pro<g ref="char:EOLhyphen"/>verb among many, and it is uſed by them who have a ſpite or ha<g ref="char:EOLhyphen"/>tred againſt Holineſs. If thou be ſincere and right at firſt, thou ſhalt be like <hi>Joſeph, Samuel,</hi> and <hi>David,</hi> who were famous in their Generations.</p>
+            <p>Thou ſhalt not be a Bungler in Religion, it will be thy Trade.</p>
+            <p>Who knows what they do, that forget God that made them, and took them out of the Womb, and is thy Life, and the Length of thy days? <hi>Deut</hi> 30. 20.</p>
+            <pb n="14" facs="tcp:174812:8"/>
+            <p> Better never to have been than to wrong this good God.</p>
+            <p>Conſider theſe Children, read often what is here related.</p>
+            <p>Meditate on them; pray to God you may be ſuch. He hath enough of the Spirit.</p>
+            <p>See what became of thoſe Chil<g ref="char:EOLhyphen"/>dren that did mock at God's Servant, 2 <hi>Kings</hi> 2. 23, 24.</p>
+            <p>You love your Fathers, to live with them, and to be in their Arms; you have a better Cre<g ref="char:EOLhyphen"/>ator and Father to take care of you.</p>
+            <p>Object.</p>
+            <p>Some Children will be ready to ſay, Oh! how irksom is it to pray and read? is it not better to
+<pb n="15" facs="tcp:174812:8"/> pleaſe our ſelves, and to do what ſeemeth good in our own Eyes?</p>
+            <p>Anſw.</p>
+            <p>At firſt, becauſe of our Cor<g ref="char:EOLhyphen"/>rupt Nature, the ways of Wiſ<g ref="char:EOLhyphen"/>dom ſeem unpleaſant, but it is only at firſt; but the Way and End is very pleaſant. <hi>There is a Way (ſaith</hi> Solomon) <hi>that ſeemeth right to a Man, but the End thereof is Death:</hi> Prov. 14. 12.</p>
+            <p>We would have Joy and Peace, but it is not to be had in Sin.</p>
+            <p>Oh! Come, and ſee, and try, and thou ſhalt never repent.</p>
+            <pb n="16" facs="tcp:174812:9"/>
+            <p> The God of Heaven bleſs theſe Directions to you, which is the hearty Deſire, and fervent Prayer of the Publiſher here<g ref="char:EOLhyphen"/>of,</p>
+            <closer>
+               <signed>W. BIDBANCK.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="exhortation">
+            <pb n="17" facs="tcp:174812:9"/>
+            <head>A Word in Seaſon to Religious Parents: OR, <hi>An Exhortation to them to train up their Children in the Nurture and Admoni<g ref="char:EOLhyphen"/>tion of the Lord.</hi>
+            </head>
+            <p>I Cannot but look on it, as one of the ſaddeſt Inſtances of God's Diſpleaſure againſt his People of this Generation, ſuch as are Parents; the woful Degeneracy of ſo many of their
+<pb n="18" facs="tcp:174812:10"/> Children, and that the Lord in<g ref="char:EOLhyphen"/>tends therein to rebuke and cha<g ref="char:EOLhyphen"/>ſtiſe the Parents for the great neg<g ref="char:EOLhyphen"/>lect of Duty found in moſt, in not educating their Children more ſtrictly according to Scripture-Rule and Precept.</p>
+            <p>I know theſe ſad Effects do naturally flow from the corrupt Fountain of depraved Nature in every Child, which can no way be effectually prevented, but by the Grace of God in the Heart: Like as the Prophet did to heal the Waters, and the barren Ground, by caſting Salt into the Spring. Yet it is evident, the Lord requires of Parents a diligent Diſcharge of their Duty, as the ordinary way wherein they may expect the Bleſſing to be given forth, and the uſual means of its Conveyance: <hi>For I know him,</hi> (that is <hi>Abraham,</hi> ſaith the Lord) <hi>that he will command</hi>
+               <pb n="19" facs="tcp:174812:10"/> 
+               <hi>his Children and his Houſhold after him:</hi> There is the Parents Duty; <hi>and they ſhall keep the way of the Lord;</hi> there is the Bleſſing promi<g ref="char:EOLhyphen"/>ſed; <hi>That the Lord may bring upon</hi> Abraham, <hi>that which he hath ſpo<g ref="char:EOLhyphen"/>ken of him;</hi> whereby is intended the way and means of diſpencing it: <hi>Gen.</hi> 18. 19.</p>
+            <p>This Duty of Parents towards their Children hath two Parts, 1. Inſtruction; 2. Diſcipline: which are ſo much one, and go together; as often in Scripture the ſame Word ſignifies to inſtruct, and to correct. The Apoſtle's Exhortation, <hi>Epheſ.</hi> 6. 4. agrees hereunto, namely, <hi>That Children be brought up in the Nurture and Admonition of the Lord;</hi> like as God deals with his Children. It is not pertinent to my Scope to treat of theſe particularly, nor to enquire what hath been the neglect in both, with the Conſe<g ref="char:EOLhyphen"/>quences.
+<pb n="20" facs="tcp:174812:11"/> I only recommend to the ſerious Conſideration, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> diligent Practice of ſuch Parents as are conſcienciouſly concerne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for the Glory of God, and th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> eternal Welfare of their Chil<g ref="char:EOLunhyphen"/>dren, heartily wiſhing ſome skil<g ref="char:EOLhyphen"/>ful Hand would guide them: To which purpoſe they may conſult the Book of worthy Mr. <hi>Stock<g ref="char:EOLhyphen"/>ton</hi> deceaſed, entituled, <hi>Family In<g ref="char:EOLhyphen"/>ſtructions.</hi>
+            </p>
+            <p>I ſhall inſtance in one thing on<g ref="char:EOLhyphen"/>ly (as an Introduction to that which follows) wherein Parents Neglect is leaſt diſcerned, unleſs it be in the Conſequences; and that is, when they begin not the Work of educating their Chil<g ref="char:EOLhyphen"/>dren ſo early as ſhould be. Ma<g ref="char:EOLhyphen"/>ny Parents give up the firſt ſeven, or ten Years of their Children wholly to Indulgence, pleaſing themſelves and the Child with hearing its Wit, as they ſay, tho
+<pb n="21" facs="tcp:174812:11"/> it ſpeaks Vanity; and to ſee its Humour, while they let it do ac<g ref="char:EOLhyphen"/>cording to its Will, tho it acts in Diſobedience, ſaying, it will be wiſer afterwards, gratifying its Deſire in every thing, tho it be mere Fuel for Luſt; and if any thing be amiſs, they ſay, they will rectify it afterwards, and re<g ref="char:EOLhyphen"/>duce it to order. But Experience of the contrary Effects might con<g ref="char:EOLhyphen"/>vince of the Error, which ariſeth (as I conceive) eſpecially from too ſlight a conſideration of cor<g ref="char:EOLhyphen"/>rupt Nature, its ſtrength and effi<g ref="char:EOLhyphen"/>cacy, even in the youngeſt; and from a want of a due ſenſe (if not Ignorance) of the duty of Parents towards their Children in this par<g ref="char:EOLhyphen"/>ticular: Somewhat whereof I ſhall therefore briefly declare, and offer ſome Motives for Encouragement unto a diligent performance there<g ref="char:EOLhyphen"/>of.</p>
+            <p>
+               <hi>Manoah</hi> enquired of the Angel,
+<pb n="22" facs="tcp:174812:12"/> How ſhall we order the Child and how ſhall we do unto him An Enquiry proper for every P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rent, that deſires a Godly See<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> It is anſwered in that divine D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rection, given by the Apoſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Paul; Bring them up<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the nurtu<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and admonition of the Lord.</hi> Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Nurture, or Diſcipline ſeaſona<g ref="char:EOLunhyphen"/>ble, compaſſionate, as we hinte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> before, <hi>Like as the Lord dea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with his Children:</hi> Not as may b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for the Parents pleaſure, but the Child's profit: And, <hi>in the Ad<g ref="char:EOLunhyphen"/>monition of the Lord;</hi> In the good Knowledg of the Lord: And the Duty he requires of them herein, <hi>to bring them up,</hi> or <hi>nouriſh</hi> them, as the word ſignifies, like as they do the Babe with Milk. So <hi>Timothy</hi> is ſaid to be nouriſhed up in words of Faith and good Doctrine, and that from his Infancy, 2 <hi>Tim.</hi> 3. 1 5. <hi>From a Child thou haſt known the holy Scriptures.</hi> The Word <hi>Child,</hi>
+               <pb n="23" facs="tcp:174812:12"/> is the ſame in the Greek, uſed elſe<g ref="char:EOLhyphen"/>where for the new-born Babe.</p>
+            <p>The Jews were wont (as ſoon as ever their Children were capa<g ref="char:EOLhyphen"/>ble) to teach them the Know<g ref="char:EOLhyphen"/>ledg of the Scriptures. And it is wonderful, what we read of the Proficiency of the young Chil<g ref="char:EOLhyphen"/>dren of the Chriſtians of <hi>Pied<g ref="char:EOLhyphen"/>mont,</hi> and other Places. And we may do well to conſider of what Benefit it was to the Children of the <hi>French</hi> Proteſtants, when put upon renouncing the Truth at ſeven Years old, and what Com<g ref="char:EOLhyphen"/>fort to the Parents, who had been faithful in inſtructing them, when they ſtood the Trial, and abode in the Truth? The ſame Advice is given in the <hi>Proverbs,</hi> Ch. 22. 6. <hi>Train up a Child in the way he ſhould go.</hi> The Word ſignifies to ca<g ref="char:EOLhyphen"/>techiſe or inſtruct a Child in the way, as a Learned Writer renders it, <hi>In the beginning of his Way,</hi>
+               <pb n="24" facs="tcp:174812:13"/> that is, in his tender Years, ſoon as ever he is capable of I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſtruction. <hi>And when he is old, will not depart from it;</hi> that is, t<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Impreſſions made in Childiſh Yea<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> will remain, for the moſt part, hath been obſerved by all ſorts <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Learned Writers.</p>
+            <p>The like Direction is given <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>Proverbs,</hi> concerning the oth<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> part of the Parents Duty; nam<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ly, to chaſten betimes in his tende<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Years. The Hebrew Word i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> early in the Morning of his Day<g ref="char:punc">▪</g> For this Reaſon, as I conceiv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we read ſo often in the Book o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Proverbs</hi> of the Mother, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> being eſpecially concerned in thi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Work: She being moſt conver<g ref="char:EOLunhyphen"/>ſant with the Child, and having the over-ſight and ordering of it i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> its tender Years, hath the faireſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Opportunity to be inſtilling the Knowledg of Spiritual Things, to draw the Affections, to prompt,
+<pb n="25" facs="tcp:174812:13"/> and lead it by good Example in Words and Deeds, to reſtrain and check the firſt appearance of Evil, and watch againſt the Occaſions of it. Wherefore it is ſaid, <hi>The Child left to its ſelf,</hi> that is, ſuffered to follow its own Will, or Luſt, with<g ref="char:EOLhyphen"/>out Reſtraint, <hi>brings the Mother to Shame;</hi> Prov. 29. 15. for her neglect of Duty, whilſt ſhe had the eſpecial Care of it, in not obſerving the Divine Direction foregoing; <hi>The Rod and Reproof gives Wiſdom to the Child.</hi> It al<g ref="char:EOLhyphen"/>ſo gives Reſt and Delight to the Soul of the Parents, <hi>verſ.</hi> 17. in the Succeſs, through the Bleſſing; as no doubt the Mother of <hi>Timo<g ref="char:EOLhyphen"/>thy</hi> found, who had been his In<g ref="char:EOLhyphen"/>ſtructer from his Infancy; for his Father was a <hi>Greek,</hi> and (as Expoſiters obſerve) would not ſuffer him to be circumciſed: Not but that the Father is equally obliged, and a Concurrence of
+<pb n="26" facs="tcp:174812:14"/> both Parents is exceeding requi<g ref="char:EOLunhyphen"/>ſite unto a ſucceſsful Managemen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> even from the beginning. Tho for the Reaſon before-mentioned the Mother is to be eſpecially concerned in the tender Years, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is the Father when the Child is grown: and both may ſee Cauſe to ask of God that Wiſdom which is profitable to direct in that Duty, and muſt be conſtant in the Diſcharge of it. After all, aſcribing the Succeſs wholly to his Bleſſing, who maketh the Seed that is ſown in the Morning, or that in the Evening to proſper: And while we are in a way of Duty, <hi>working out our Salvation with Fear and Trembling,</hi> worketh in us, and ſo in ours, <hi>to will and to do of his good Pleaſure.</hi>
+            </p>
+            <p>For Encouragement in ſo early an Undertaking, it may be con<g ref="char:EOLhyphen"/>ſidered;</p>
+            <p n="1">
+               <pb n="27" facs="tcp:174812:14"/> 1. That the Children of Be<g ref="char:EOLhyphen"/>lievers (of whom we ſpeak) are born Children of the Covenant and Promiſe. And who would not train them up in that way, in order to the inheriting of the Bleſſing, which the Lord requires and expects from the Parents, with a Truſt and Confidence in them that they will ſo do? <hi>I know A<g ref="char:EOLhyphen"/>braham,</hi> ſaith the Lord, whatſo<g ref="char:EOLhyphen"/>ever others do, <hi>that he will com<g ref="char:EOLhyphen"/>mand his Children, and his Houſhold after him.</hi> On this account of the Covenant, the Lord calls them his Children, and doth in a Senſe ſpiritually, give Charge to the Parents concerning them, as <hi>Pha<g ref="char:EOLhyphen"/>raoh</hi>'s Daughter ſaid to the Mother of <hi>Moſes, Take this Child, and nurſe it for me;</hi> our Lord himſelf ſaith concerning little Children, <hi>Of ſuch is the Kingdom of Heaven;</hi> and for that Reaſon, commands them to be brought to him, and
+<pb n="28" facs="tcp:174812:15"/> he bleſſeth them. All that Pa<g ref="char:EOLhyphen"/>rents do in a way of Duty, is but to bring them unto Chriſt; and being come, to bring them up in him. The Lord declares in his Word concerning the Infant-Children of Believers, <hi>They are holy,</hi> that is, to be eſteemed really ſo (as Dr. <hi>Goodwin</hi> interprets it) in the Judgment of Faith joyned with Charity; that is, a Faith of Waiting and Expectation, groun<g ref="char:EOLhyphen"/>ded on what God indefinitely promiſeth and declares about them, till he reveal the contrary, and in the mean time to be judged as Saints; ſo as to bind the Con<g ref="char:EOLhyphen"/>ſciences of Parents unto a Diſ<g ref="char:EOLhyphen"/>charge of all Duties towards them as Saints, until the contrary ap<g ref="char:EOLhyphen"/>pear.</p>
+            <p n="2">2. Theſe Children in their In<g ref="char:EOLhyphen"/>fancy received the Sign and Seal of the Covenant, were baptized in the Name of the Father, the
+<pb n="29" facs="tcp:174812:15"/> Son, and the Holy-Ghoſt, there<g ref="char:EOLhyphen"/>in given up and ſolemnly enga<g ref="char:EOLhyphen"/>ged to be the Lords; whence the Parents muſt needs be obliged, and ought to be encouraged, as to be much in Prayer for them, ſo diligently to teach them (as they are capable) the Covenant, and to lay hold thereof, to know the Lord, and excite them to ſeek him, to love his Name, and be his Servants: Like as we read <hi>David</hi> did exhort <hi>Solomon</hi> his Son, 1 <hi>Chron.</hi> 28. 9. and as the Son of the Stranger is encouraged to do, <hi>Iſa.</hi> 56. 6, 7. much more the Chil<g ref="char:EOLhyphen"/>dren of the Promiſe.</p>
+            <p n="3">3. Young Children are capable of Divine Impreſſions. It is ra<g ref="char:EOLhyphen"/>tional to ſuppoſe them capable Subjects of Grace, as they are of Sin; and of the Operations of the Spirit, (if he pleaſe to work, tho we know not the manner how) as they are of the Motions of
+<pb n="30" facs="tcp:174812:16"/> Sin. And as they are receptive of gracious Diſpoſitions; ſo theſe is will ſhew themſelves, as the Powers of the Soul, and Organs of the Body attain meetneſs for Action: which alone were ſuffici<g ref="char:EOLhyphen"/>ent ground to encourage Parents to be early dropping Words of Inſtruction and Reproof, for as much as the Seed of the Kingdom ſprings up we know not how, and oftentimes before we are aware. We ſee the Fruit of the Spirit ſometimes in little Children, be<g ref="char:EOLhyphen"/>fore the uſe of Means, or while little could be done by Man for ſuch a Production. Experi<g ref="char:EOLhyphen"/>ence doth ſufficiently confirm the Truth hereof by a number of In<g ref="char:EOLhyphen"/>ſtances. I queſtion not in every Age, there hath been not a few remarkable Inſtances of late Years in our own Nation, ſome of which are noted by worthy Mr. <hi>Jane<g ref="char:EOLhyphen"/>way.</hi>
+            </p>
+            <pb n="31" facs="tcp:174812:16"/>
+            <p> The deſign of this ſmall Tract, is, to preſent the Reader with an Account of what was very lately obſerved in one Child, ſoon after it was four Years old, before it could read, until near ſeven Years of Age, having lived all that time in Affliction by a Conſumption, whereof it died. And although I ſuppoſe the one half of what was ſaid and done in that time, is not told: Yet that which is reported, I think, is beyond any thing yet written of thoſe Years; the Truth whereof is confirmed by many Witneſſes. It is written, that all may magnify his Work which they behold, giving God the Glo<g ref="char:EOLhyphen"/>ry; that Parents may be encoura<g ref="char:EOLhyphen"/>ged in their Duty, and Children be invited to ſeek the Lord while they are young, and fear him from their Childhood. And as for ſuch as deny and deſpiſe the Work of the Spirit in Regeneration, and
+<pb n="32" facs="tcp:174812:17"/> effectual Grace, if they be no hereby convinced, they may b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> conſtrained to acknowledg, lik<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as the <hi>Jews</hi> ſaid in the Apoſtles Time, that indeed a notable Mi<g ref="char:EOLhyphen"/>racle hath been done, is manifeſt to all, and we cannot deny it.</p>
+            <p>Yet further, to evidence the Cre<g ref="char:EOLhyphen"/>dibility of this thing: I am deſired to ſecond it with a brief Narra<g ref="char:EOLhyphen"/>tive of what was obſerved in ano<g ref="char:EOLhyphen"/>ther much younger, who was not full two Years and an half old when ſhe died: and that which I ſhall relate concerning it, is of my own Knowledg.</p>
+            <p>It was a Child much prayed for while it was in the Womb, that it might be ſanctified; and after it was born, ſolemnly offered up to the Lord by the Parents, as the Firſt-Fruits of their Increaſe. It had the Advantage of ſpeaking very early, and intelligent beyond its Years, which rendr'd it the more
+<pb n="33" facs="tcp:174812:17"/> capable of the Mothers Inſtructi<g ref="char:EOLhyphen"/>ons, from whom ſhe learned many good Sentences, which ſhe would often repeat to others, and ſome<g ref="char:EOLhyphen"/>times to her ſelf with ſeeming Pleaſure. She was firſt ſeized with the Rickets, and afterwards languiſhed of a Conſumption, being confined ſix Months to the Cradle, chaſtened with much Pain and Weakneſs all the time, not<g ref="char:EOLhyphen"/>withſtanding all Means poſſible uſed for Relief, which a moſt in<g ref="char:EOLhyphen"/>dulgent Mother could provide for it.</p>
+            <p>During the time of her Afflicti<g ref="char:EOLhyphen"/>on, ſhe all along manifeſted a more than ordinary Affection to the Ordinances, that is, to the Word and Prayer; ſo as ſhe would not be ſatisfied, if denied that Liber<g ref="char:EOLhyphen"/>ty, to be preſent: Inſomuch as ſhe was often carried in her Cra<g ref="char:EOLhyphen"/>dle into another Room for that purpoſe: And notwithſtanding
+<pb n="34" facs="tcp:174812:18"/> her great Weakneſs and and Pain, ſhe would keep in her Groans, and compoſe her ſelf in her Cradle for ſome hours together, at ſpe<g ref="char:EOLhyphen"/>cial times of Prayer, attending without any ſeeming Wearineſs: Yea, tho her great Illneſs made Diverſion neceſſary; ſhe would not permit her Maid to rock but very ſoftly, nor ſing her, which at other times ſhe would by no means have forborn; and the Play-things wherewith ſhe much pleaſed her ſelf for Diverſion at other times, ſhe would, in time of Prayer, of her own accord, throw from her to the end of the Cradle with diſlike, as if they were a Trouble to her.</p>
+            <p>Sometime ſhe would be turned in the Cradle, or taken up in the Arms, asking to ſee ſuch a Mini<g ref="char:EOLhyphen"/>ſter (whom ſhe would name) <hi>Pray for Miſs,</hi> (as ſhe always call'd her ſelf, from hearing others
+<pb n="35" facs="tcp:174812:18"/> ſo call her) and when Prayer was ended, ſhe would ſpeak in Com<g ref="char:EOLhyphen"/>mendation of him that prayed, Such a one is a good Man; and call to be taken in his Arms, and kiſs him many times before ſhe ceaſed. When any did commend her, ſhe would ſay, <hi>Naught, naught;</hi> ſhe was ſo earneſtly deſirous to be preſent at Family-Prayer, that they could not ſatisfy her, tho in other things it was ſeldom, but the giving her a Reaſon would do it. But once in a day the Family came up to prayer in her Chamber, which was done with that Pleaſure and Satisfaction, as if ſhe had been much older; and when the Occa<g ref="char:EOLhyphen"/>ſions of the Family would not admit it, ſhe deſired her Father to pray with her, which he frequent<g ref="char:EOLhyphen"/>ly did at Bed-time.</p>
+            <p>It was no leſs obſervable, the peculiar Reſpect ſhe had for the Scriptures, which ſhe always cal<g ref="char:EOLhyphen"/>led
+<pb n="36" facs="tcp:174812:19"/> God's Word: for when her Mother or the Maid did read in another good Book, ſhe would ſometimes diſtinguiſh, and bid them read God's Word, and unſa<g ref="char:EOLhyphen"/>tisfied until they did. Sometimes ſhe delighted to have a Book in her Hand, and pleaſe her ſelf to ſpeak Words, as if ſhe read; and once it was obſerved, in the midſt of the Action, ſhe caſt the Book out of her Hand with a troubled Mind, uttering thoſe Words, <hi>I can't tell the meaning of it.</hi>
+            </p>
+            <p>She was greatly delighted with Singing, with which ſhe paſſed away many a weariſome Hour, but would frequently call for the ſinging of Pſalms, and ask for ſome in particular; as ſing the <hi>Tabernacle,</hi> and ſing, <hi>The Lord is my Shepherd,</hi> &amp;c. In the mean time would not only deny her ſelf her uſual neceſſary Diverſions, and lie compoſed, but would be
+<pb n="37" facs="tcp:174812:19"/> ſeriouſly attentive, oft-times with Eyes and Hands lifted up, as if ſhe underſtood what was ſpoken or ſung, and had a Taſte in her Spirit of the Sweetneſs of the Word: And ſometimes was ob<g ref="char:EOLhyphen"/>ſerved, as if ſhe were privately praying by her ſelf, as her Ge<g ref="char:EOLhyphen"/>ſture and Words over-heard did import, but was offended if they took notice of it to her.</p>
+            <p>If any did ask her, Whether ſhe was willing to die and go to Heaven? her uſual Reply was, <hi>Go to Heaven, but no die.</hi> But in the latter time of her Sickneſs, her Anſwer to ſuch a Queſtion was, She would die and go to Jeſus Chriſt. And when it was put to her, if ſhe deſired not to be well and play about with Siſter and Brother? ſhe would anſwer in the ſame Words, Would die, and go to Jeſus Chriſt.</p>
+            <pb n="38" facs="tcp:174812:20"/>
+            <p> This was the ordinary Frame of her Spirit. Many occaſional Sayings that ſavoured of Grace and Wiſdom, above that of a Child, are not inſerted, becauſe not perfectly remembred for want of noting them in time. Her te<g ref="char:EOLhyphen"/>dious and long Affliction ſhe bore with admirable Patience, when few about her knew how to bear the ſight of it.</p>
+            <p>Early in the Morning that ſhe died, ſhe ſang her ſelf (as often ſhe would do) with a more ſweet and melodious Strain than they about her thought they had ever heard her. Within a few hours af<g ref="char:EOLhyphen"/>ter, while her Mother was rocking, ſhe ſaid to her Mother, No rock, no rock: thereby giving her (as the Mother interpreted) a fi<g ref="char:EOLhyphen"/>nal Diſcharge from further Care and Trouble, and immediately, with a ſilent Groan, ſhe died.</p>
+            <pb n="39" facs="tcp:174812:20"/>
+            <p> The hearing only of the Report (I am ſenſible) cannot ſo much affect or inform, as the ſeeing and hearing the Child, which un<g ref="char:EOLhyphen"/>to the moſt judicious Obſervers, Miniſters and others, gave ſuch an Evidence of the Grace of God in it, as cauſed Thankſgiving by many unto God on that account: Yet I queſtion not, the Reader will meet with ſomewhat that is not ordinary in a Child of that Age, worthy to be remarked, and pertinent to our purpoſe, which is to demonſtrate, that little Chil<g ref="char:EOLhyphen"/>dren are capable of ſpiritual Im<g ref="char:EOLhyphen"/>preſſions and gracious Actings.</p>
+            <p>That which hath been decla<g ref="char:EOLhyphen"/>red concerning this Child, was by the Father ſummarily com<g ref="char:EOLhyphen"/>prized in the following Verſes.</p>
+            <lg>
+               <pb n="40" facs="tcp:174812:21"/>
+               <l>Tranſcendent Rays of Heavenly Light,</l>
+               <l>In this Babe's Soul here ſhin'd.</l>
+               <l>Prayer, and Praiſe, God's Word, his Saints.</l>
+               <l>Were it's Delight to mind.</l>
+               <l>Her Sayings, Years, and Grace, became;</l>
+               <l>God did her Patience try.</l>
+               <l>He that the Firſt-Fruits holy made,</l>
+               <l>The whole Lump ſanctify.</l>
+            </lg>
+            <p>The two laſt Verſes prompt me to add, wherewith I ſhall con<g ref="char:EOLhyphen"/>clude: That as it pleaſed the Lord to build and bleſs the Fami<g ref="char:EOLhyphen"/>ly to which this Child did relate, with a numerous Off-ſpring, nine of which are now living, and the Eldeſt of them but ſeventeen Years old: There is (through a Bleſſing on Education) to be ſeen ſpringing up in them, In ſome
+<pb n="41" facs="tcp:174812:21"/> the Blade; in others, the Ear; and in ſome the full Corn in the Ear. Or, it may be ſaid of theſe Branches, as of <hi>Aaron</hi>'s Rod that budded; ſome Branches bring forth Buds, others bloom Bloſ<g ref="char:EOLhyphen"/>ſoms, and ſome yield Almonds. The Praiſe whereof is given, as is due, unto God alone. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="account">
+            <pb facs="tcp:174812:22"/>
+            <pb n="43" facs="tcp:174812:22"/>
+            <head>Free-Grace diſplayed.</head>
+            <p>IT pleaſed the All-wiſe God to ſend a great Affliction upon <hi>Mary Stubbs,</hi> the Daughter of <hi>Thomas</hi> and <hi>Mary Stubbs</hi> of <hi>Har<g ref="char:EOLhyphen"/>leſton</hi> in the County of <hi>Norfolk,</hi> being a Child between four and five Years old. In the beginning of her Sickneſs, ſhe ſeemed very unwilling to hear any things ſpo<g ref="char:EOLhyphen"/>ken to her of Death, or to be inſtructed for the good of her Soul; ſhe ſhewed a great diſlike, and would be very angry: Yet her Relations did not forbear for ſome time to inſtil ſutable In<g ref="char:EOLhyphen"/>ſtructions,
+<pb n="44" facs="tcp:174812:23"/> according to her Ca<g ref="char:EOLhyphen"/>pacity and tender Years, until they were diſcouraged to ſee the Child ſo averſe to, and diſplea<g ref="char:EOLhyphen"/>ſed with them. The Parents being greatly concerned for the everlaſting Good and Happineſs of the Soul of this their Child, did reſign her unto the ſpecial and immediate Teachings of the Spi<g ref="char:EOLhyphen"/>rit of God. It is our Duty to ſow the Seed, and leave the Suc<g ref="char:EOLhyphen"/>ceſs to his Bleſſing that giveth the Increaſe; for it is the Inſpira<g ref="char:EOLhyphen"/>tion of the Almighty which giveth Underſtanding, and <hi>putteth Wiſ<g ref="char:EOLhyphen"/>dom into the inward Parts,</hi> even of Babes and Sucklings, notwith<g ref="char:EOLhyphen"/>ſtanding the Darkneſs and Enmi<g ref="char:EOLhyphen"/>ty of our Corrupt Natures, as will be evident in this famous In<g ref="char:EOLhyphen"/>ſtance, and following Relation.</p>
+            <p>Her Mother did ask her, Whi<g ref="char:EOLhyphen"/>ther ſhe ſhould go if ſhe died? ſhe replied at firſt, ſhe knew not; af<g ref="char:EOLhyphen"/>terwards,
+<pb n="45" facs="tcp:174812:23"/> being asked the ſame Queſtion? ſhe then anſwered, ſhe ſhould go to Heaven. But it was told her, all that died, did not go thither; yet ſhe ſaid, ſhe did think ſhe ſhould. And beyond all Ex<g ref="char:EOLhyphen"/>pectation, there did appear a great Change in her, for ſhe began to be very ſenſible of her Condition, and to cry and mourn, fearing ſhe ſhould go to Hell.</p>
+            <p>Now ſhe was very deſirous to have her Friends pray for her, that ſhe might go to Heaven, and be made a new Creature.</p>
+            <p>Her Sickneſs increaſed, and ſhe was very ſerious, and ſuddenly ſo weaned from this World, that ſhe had no deſire to live, but ra<g ref="char:EOLhyphen"/>ther to die, and would argue a<g ref="char:EOLhyphen"/>gainſt living here (far beyond what could be expected, conſide<g ref="char:EOLhyphen"/>ring her Infancy) with thoſe that diſcourſed with her concer<g ref="char:EOLhyphen"/>ning the Excellency of Life, and
+<pb n="46" facs="tcp:174812:24"/> could never be perſuaded to en<g ref="char:EOLhyphen"/>tertain any thoughts of it.</p>
+            <p>She lay in her Cradle, pine<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> away, and her Strength gone ſo that ſhe had no uſe of he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Limbs; yet her Soul vigoro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and lively, wholly fixed for eter<g ref="char:EOLhyphen"/>nal Life. In this her languiſhing Condition ſhe was very earneſt with them that came to ſee her deſiring their Prayers for her, and would tell them what ſhe deſired, they might pray for her; that ſhe might have good Hopes and good Grounds that ſhe ſhould go to Heaven, and not be under a Miſtake; that ſhe might have Grace and Wiſdom to know how to ſerve the Lord.</p>
+            <p>She did deſire to be made ſen<g ref="char:EOLhyphen"/>ſible of her Sin, and the need ſhe had of Chriſt; and that the Lord would put his Fear into her Heart, that ſhe might not ſin againſt him; and that ſhe might not die before
+<pb n="47" facs="tcp:174812:24"/> ſhe had an Intereſt in Chriſt; for then ſhe muſt be in Hell to all E<g ref="char:EOLhyphen"/>ternity, and did deſire ſhe might be helped to believe.</p>
+            <p>It was never deſired by her in all her long Sickneſs, that any ſhould pray for her natural Life, or recovery out of her Affliction, but continually deſired her Viſi<g ref="char:EOLhyphen"/>ters to ſeek the Lord for Patience and Strength to bear quietly her Affliction.</p>
+            <p>All that came to viſit her, did greatly wonder to hear ſuch liſ<g ref="char:EOLhyphen"/>ping Words (for ſhe could not then ſpeak plainly) ſo full of Wiſdom, and ſpiritual Under<g ref="char:EOLhyphen"/>ſtanding.</p>
+            <p>She became a wonder to all that ſaw her, when they heard a Babe utter ſuch great things. Her u<g ref="char:EOLhyphen"/>ſual Enquiry was, concerning ſuch as came to ſee her, whether they were praying Perſons, and when ſhe underſtood they were, if
+<pb n="48" facs="tcp:174812:25"/> they came to ſee her again, then ſhe would deſire them to pray for her.</p>
+            <p>And as ſhe did increaſe in Knowledg, ſo ſhe did expreſs to them new things to be prayed for, as that ſhe might be made a new Creature, that Chriſt might be her Portion, and that ſhe might not murmur againſt God.</p>
+            <p>Thus ſhe continued in a very low Condition, as to her Body, earneſt with many to pray for her. After this a Friend told her, it was her Duty to pray for her ſelf, and within a little time ſhe did deſire one (that came to viſit her) to tell that Perſon, ſhe did now pray: but it was replied to her, you tell me ſo, it may be that you may be commended; which ſhe denied, and fell into a Paſſion of mourning, ſo that they could not but encourage her, and ſpeak comfortably to her.</p>
+            <pb n="49" facs="tcp:174812:25"/>
+            <p> The Lord poured out upon her a Spirit of Prayer, in which ſhe did abound, yet very privately, and only with her Mother. She chiefly prayed for her ſelf, and her Relations, that they might all go to Heaven, and be there together for ever. She had but one Brother, and when he came from School, ſhe would be per<g ref="char:EOLhyphen"/>ſuading him to get alone into ſome private place, and pray to God, inſtead of playing; <hi>Brother,</hi> ſaid ſhe, <hi>you may be praying.</hi>
+            </p>
+            <p>It was her great deſire to get an Opportunity to ſpeak her Mind to her Brother largely, and when he was by her Cradle, ſhe ſpake to him for near a quarter of an hour very affectionately, and ſaid, Brother, pray that the Lord would make you ſenſible of your Condition, and pray that you may have a new Heart, and that you may have an Intereſt in
+<pb n="50" facs="tcp:174812:26"/> Chriſt; O Brother, going to Hell is ſad, O mind what I ſay, it is for the good of your precious Soul that I ſpeak this, and that you may have good Hopes and good Grounds for Salvation: O that the Lord would work a Change in your Heart, that you may come to Heaven after me: I have Joy, but you have none; I ſee that Chriſt hath died and ſuffered for me; and O Brother, that thou mayſt ſee the ſame: O Brother, if thou dieſt without an Intereſt in Chriſt, thou muſt go to Hell to all Eternity, there is Fire and Brim<g ref="char:EOLhyphen"/>ſtone, and the time will never end: O Brother, delay no longer, mind what I ſay to thee, for thou doſt not know but thou mayſt die this Night before the Morning: And ſhe told him how ſweet it was to go to Heaven, for there was prai<g ref="char:EOLhyphen"/>ſing and ſinging Halelujahs to all Eternity. Her Words were ſo
+<pb n="51" facs="tcp:174812:26"/> affecting, as they cauſed one that heard theſe things to ſhed many Tears. She ſpake like one of full Age, and not like a little Child in a Cradle. It was her frequent Pra<g ref="char:EOLhyphen"/>ctice to perſuade her Brother to be ſerious, and to mind that which was good, and to regard his precious Soul. Altho ſhe heard much for her Inſtruction from her Parents, and was a Child of good Underſtanding, yet her Teachings were more immediate than thoſe of riper Years.</p>
+            <p>It was an Expreſſion often ut<g ref="char:EOLhyphen"/>tered by her, that ſhe could not have ſpoken theſe things, if it had not been in her Heart; for it was not conſtantly that ſhe did ſpeak thus, but as ſhe enjoyed the ſweet Gales of the holy Spirit. Some<g ref="char:EOLhyphen"/>times ſhe ſpake but little, and then again ſhe was full of matter, and her Tongue like a flowing Stream, and ſhe ſpake to Admiration, ſo
+<pb n="52" facs="tcp:174812:27"/> that the moſt that came to ſee her, had preſently that Scripture in their mouths, <hi>Pſal.</hi> 8. compared with <hi>Mat.</hi> 21. 16. <hi>Out of the mouths of Babes and Sucklings thou haſt per<g ref="char:EOLhyphen"/>fected thy Praiſe.</hi>
+            </p>
+            <p>Her Afflictions ſtill encreaſed, and ſhe was now in the Furnace, and had very ſore nights &amp; days: O the weariſom months that were appointed to her!</p>
+            <p>All that did behold her, con<g ref="char:EOLhyphen"/>cluded that ſhe would die ſudden<g ref="char:EOLhyphen"/>ly, yet revived, and was as the <hi>Buſh on fire, and yet not conſumed.</hi> Much means was uſed for her re<g ref="char:EOLhyphen"/>covery, by a Neighbour Phyſician, <hi>viz.</hi> Mr. <hi>Twiſs,</hi> who was very careful of her, and ſometimes ſhe did amend, but preſently fell under greater Weakneſs.</p>
+            <p>The Lord held her Soul in Life, to declare his Wonders: Whilſt her outward-Man decreaſed, her inward-Man was renewed day by day.</p>
+            <pb n="53" facs="tcp:174812:27"/>
+            <p> Some Miniſters and others, be<g ref="char:EOLhyphen"/>holding this great Work of God, did think it their Duty to ſet a<g ref="char:EOLhyphen"/>part ſome time ſolemnly to bleſs the Name of the Lord for his rich Grace beſtowed on her, and to ſeek to the Lord for his ſuppor<g ref="char:EOLhyphen"/>ting Arms to be underneath her.</p>
+            <p>Her delight was very great in theſe days of Prayer, and did earneſtly deſire many of them; and ſhe had choice Viſitations from Heaven in and after thoſe Times. When a Day was appointed, O, how did ſhe long for it, and did ſay, <hi>I ſhall long for the Day!</hi> And when the Time was come, ſhe would of her own accord, expreſs what ſhe did deſire ſhould be pray<g ref="char:EOLhyphen"/>ed for, for her ſelf, for her Re<g ref="char:EOLhyphen"/>lations, and would declare, what ſhe deſired for her Brother, the ſame ſhe did for her Siſter.</p>
+            <p>She did deſire that ſhe might have Faith, and true Faith, ſhe
+<pb n="54" facs="tcp:174812:28"/> was afraid to be an Hypocrite; and it was one great requeſt, that they would pray for her, that ſhe might not die in the Dark. Her Love was ſo great to thoſe that prayed with her, and for her, that ſhe would weep and mourn when they took their Leave of her, ſhe was unwilling to loſe their Company. Never did any Beggar more earneſtly deſire an Alms, than ſhe did beg for Days of Prayer, even to her dying Day.</p>
+            <p>Her Light was as the Light of the Juſt, <hi>ſhining more and more un<g ref="char:EOLhyphen"/>to the perfect Day.</hi> As the great God did ever honour his Word, ſo he did by this Babe; for ſhe did beg for a Scripture-Evidence for her Future Happineſs, and after ſome days of Darkneſs, the word <hi>(Faith)</hi> was ſet upon her Heart, and much in her Mouth, <hi>which is the Evidence of things not ſeen:</hi> Heb. 11. 1.</p>
+            <pb n="55" facs="tcp:174812:28"/>
+            <p> She had a clear Knowledg of Chriſt, and did believe in him for Salvation. She grew up alſo to a full Aſſurance, yet had many Temptations, cauſing her to fear ſhe ſhould go to Hell, and would ſay, <hi>That would be ſad indeed:</hi> Yet afterwards ſhe had much Joy, and would triumphantly ſay, <hi>I am my Beloved's, and my Beloved is mine:</hi> She knew ſhe ſhould go to Hea<g ref="char:EOLhyphen"/>ven; and it was asked her, What was done there? ſhe anſwered, <hi>There was ſinging Hallelujahs with the Saints and Angels to all Eterni<g ref="char:EOLhyphen"/>ty:</hi> Theſe Expreſſions were often uttered by her, to the Admirati<g ref="char:EOLhyphen"/>on of all that heard them. This was an Expreſſion ſhe uttered, <hi>O that I were in my Fathers Houſe!</hi> and one anſwered, You are in your Fathers Houſe; but ſhe re<g ref="char:EOLhyphen"/>plied, <hi>I mean my Fathers Houſe in Heaven:</hi> And, <hi>O,</hi> ſaid ſhe, <hi>that the Angels would conduct my Soul to Glory!</hi>
+            </p>
+            <pb n="56" facs="tcp:174812:29"/>
+            <p> She was asked, whether ſhe had not a deſire to live? ſhe ſaid, <hi>No, but was willing to die to be with Chriſt.</hi>
+            </p>
+            <p>She complained of the Illneſs of her Body, <hi>Yet,</hi> ſaith ſhe, <hi>it is better to endure this, than the Pains of Hell.</hi>
+            </p>
+            <p>That her Patience might hold out, was her requeſt to the Lord; and would ſay, <hi>Lord, Give me Faith and Patience, for Heaven will quickly ſweeten all.</hi>
+            </p>
+            <p>When her Mother thought ſhe had been ready to die, ſhe did ask her, Whether ſhe did clearly ſee, that ſhe had an Intereſt in Chriſt? ſhe anſwered, It muſt be in my Heart, and if the Lord did open her Eyes, ſhe ſhould ſee clearly her Intereſt in Chriſt, and that ſhe was a new Creature. <hi>O Mother,</hi> ſaid ſhe, <hi>if you had been willing to part with me, I had been in Heaven before this time; I am not gone, but I am going to Heaven.</hi>
+            </p>
+            <pb n="57" facs="tcp:174812:29"/>
+            <p> When ſhe was under great Pain, ſhe was asked, whether ſhe had ra<g ref="char:EOLhyphen"/>ther be without the Pain, and for<g ref="char:EOLhyphen"/>ſake Chriſt? or bear the Pain, and enjoy Chriſt? O, ſaid ſhe, I had rather have the Pain than forſake Chriſt, for he hath made me a new Creature and fit for Heaven; ſhe ſhould be unwilling to do that, for he was a good Chriſt to her.</p>
+            <p>Her Body was like to an Ana<g ref="char:EOLhyphen"/>tomy, yet then, and to the end (unleſs for ſome time, when her bodily Weakneſs did cloud her) her Spirit was lively, and ſhe had between times as much Joy as her Heart could hold, and it was her own Expreſſion, <hi>more than ſhe could bear.</hi>
+            </p>
+            <p>She did much admire the rich Grace of God to her, that he ſhould chuſe her, and ſhe ſaid, <hi>O Mother, praiſe the Lord for his Goodneſs;</hi> and her Heart was ſo raviſhed with Joy, that ſhe could
+<pb n="58" facs="tcp:174812:30"/> not be thankful enough, and ſaid, <hi>O magnify the Lord, O magnify the Lord:</hi> And then ſhe was deſirous that her Father and Mother, Bro<g ref="char:EOLhyphen"/>ther and Siſter, ſhould mind Hea<g ref="char:EOLhyphen"/>ven, that they might come thither after her.</p>
+            <p>She declared it was her long<g ref="char:EOLhyphen"/>ing deſire to go to her dear Jeſus, and her dear Saviour, O when ſhall the time come! and O preci<g ref="char:EOLhyphen"/>ous Jeſus, I cannot be thankful e<g ref="char:EOLhyphen"/>nough for the Joy thou giveſt me! O admire, admire him; and ſhe could not declare the Joy ſhe had. And at another time, O admire the Lord for ever, for ever, that he ſhould paſs by others, and chuſe me; O praiſe the Lord, O praiſe the Lord. And ſhe declared that ſhe had Joy in the Covenant of God, an everlaſting Covenant that could not be broken; and cried out ſeveral times, O ſweet Jeſus, O bleſſed Jeſus, he is ſweet, and ſhe
+<pb n="59" facs="tcp:174812:30"/> then ſaid, her Joy was very great; and ſhe lay admiring the Lord, that he ſhould love ſuch a poor Creature as ſhe was, and that he ſhould die for her. Theſe things were uttered by her, freely of her ſelf, without any prompting by others.</p>
+            <p>And at another time, ſhe ſaid, The Lord had told her, ſhe was one of his dear Children, and ſhe knew ſhe ſhould go to Heaven, as ſure as ſhe lay there: O I am full of Joy.</p>
+            <p>There were ſome preſent, that diſcourſed of Worldly Matters, and ſhe ſaid, <hi>A ſight of Chriſt, a ſight of Chriſt is worth ten thouſand Worlds.</hi>
+            </p>
+            <p>There was one did ask her, What was the ground of her Joy? and ſhe anſwered, <hi>She did believe, that Chriſt was her Por<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion, and that Chriſt was her's, and ſhe was his.</hi>
+            </p>
+            <pb n="60" facs="tcp:174812:31"/>
+            <p> And when ſhe had further Pains upon her, ſhe would pray in the Night for Patience, and that ſhe might not grumble: O when ſhall I be with my dear Jeſus! O that I might wait till my time come!</p>
+            <p>In her times of great Trouble ſhe would ſpeak to her Mother, O ſpeak of Heaven, nothing but Heaven will ſatisfy me.</p>
+            <p>It was uſual with her to deſire her Viſiters and Watchers, that they would ſpeak of Heaven: <hi>O ſpeak of Heaven, O ſpeak of Hea<g ref="char:EOLhyphen"/>ven!</hi> and ſhe did not like to hear any ſpeak of Worldly Mat<g ref="char:EOLhyphen"/>ters.</p>
+            <p>When ſhe was muſing one day, her Mother asked her, what ſhe was thinking of? ſhe anſwered, <hi>I am thinking of the Joys of Hea<g ref="char:EOLhyphen"/>ven.</hi>
+            </p>
+            <p>Sometimes the Lord did hide his Face from her, yet then ſhe
+<pb n="61" facs="tcp:174812:31"/> could truſt him, when ſhe could not ſee him: And after waiting a while, ſhe had uſually great Conſolation.</p>
+            <p>When ſhe ſpake ſo much of her Joy, her Mother would tell her, that ſhe feared, leſt it ſhould not be true Joy, or that it was naught; but ſhe anſwered, <hi>I am ſure it is not, I am as ſure as I lie here it is not.</hi>
+            </p>
+            <p>She did continually admire the Love of God, and his free Grace, and would ſay, What am I more than another, that he paſſes by others, and thus manifeſts himſelf to me?</p>
+            <p>When the Lord's-Day was come, ſhe did often tell them that were with her, that they ſhould then mind nothing but Heavenly Things.</p>
+            <p>Many good Books were read to her, but ſhe did much delight in Mr. <hi>Janeway</hi>'s little Book,
+<pb n="62" facs="tcp:174812:32"/> called, <hi>A Token for Children.</hi>
+            </p>
+            <p>When her Troubles were grea<g ref="char:EOLhyphen"/>teſt, ſhe would then rejoyce, for ſhe then did think her Reſt was at hand: And ſhe was comforted in this Conſideration, that her Affliction here, would make Hea<g ref="char:EOLhyphen"/>ven the ſweeter in the Enjoyment of it. When any looked upon her pined Body, ſhe would ſay, <hi>I ſee a better ſight.</hi>
+            </p>
+            <p>The Sting of Death was taken out, and ſhe did familiarly ſpeak of it, without being afraid of that great Change, yea with ex<g ref="char:EOLhyphen"/>ceeding great Joy.</p>
+            <p>She would ſay to her Friends concerning her Affliction, that if it had not been ſanctified to her, and been made a good Affliction, it would have been a ſad and un<g ref="char:EOLhyphen"/>comfortable one indeed.</p>
+            <p>Towards her latter end, ſhe had a great ſenſe of the Body of Sin and Death, which ſhe did
+<pb n="63" facs="tcp:174812:32"/> complain of, and made her vile in her own Eyes, but yet ſhe did rejoyce, that in Heaven ſhe ſhould be freed from it. And, O, ſaid ſhe, that I might never ſin one Sin more, and that I could do as Chriſt ſaid to the Woman, <hi>Sin no more;</hi> and, O, ſaid ſhe, nothing but Chriſt, nothing but Chriſt can ſatisfy me.</p>
+            <p>Her Love to her Relations was ſo great, that ſhe would always deſire they might live together in Heaven. She would ſay, ſhe could not tell how to bear the Thoughts of her Brothers periſh<g ref="char:EOLhyphen"/>ing for ever.</p>
+            <p>The World to come, and the Glory which is to be revealed (of which ſhe had many Foretaſts) were frequently before the Eye of her Faith, as if they had been within the view of her Senſe.</p>
+            <p>She believed ſtedfaſtly and without wavering.</p>
+            <pb n="64" facs="tcp:174812:33"/>
+            <p> It was a long and ſore Trial (above two Years) and very great to her dear Mother, who was continually with her; for ſhe was unwilling to have her from her: But the Grace of God ap<g ref="char:EOLhyphen"/>pearing ſo eminently in her Child, the ſweet Words which ſhe utte<g ref="char:EOLhyphen"/>red, and the well-grounded Hopes of her Future Happineſs, did ſupport her in her moſt ſinking times: And indeed they were both upheld by the Mighty Power of God.</p>
+            <p>She would comfort her Mother, and ſay to her, Do not mourn for me, for you ſhall come to me, and we ſhall be in Heaven together: I ſhall want nothing when I come there. I love you, but I love Chriſt better. It was asked her, how ſhe could love Chriſt, who did ſo afflict her? ſhe quickly an<g ref="char:EOLhyphen"/>ſwered, <hi>Becauſe he hath loved me.</hi>
+            </p>
+            <pb n="65" facs="tcp:174812:33"/>
+            <p> She told a Friend that came to ſee her, without any previous Diſ<g ref="char:EOLhyphen"/>courſe: There are two things I dare not do; <hi>Commend my ſelf;</hi> nor <hi>murmur againſt God.</hi>
+            </p>
+            <p>She was very thankful for eve<g ref="char:EOLhyphen"/>ry Kindneſs ſhewed her: ſhe did often make mention of the Kind<g ref="char:EOLhyphen"/>neſs of a worthy Gentlewoman, Mrs. <hi>Tyrrell</hi> of <hi>Mendham,</hi> and would ſay, how kind ſhe had been to her, who ſent many ſutable Reſtoratives for her weak Body; and when ſhe came to viſit her, ſhe would deſire her to pray for her.</p>
+            <p>She told a Neighbour that came to ſee her a little before her Death, that ſhe was now haſting to Heaven apace; now the joyful time was near at hand, which ſhe longed for, as the wearied Tra<g ref="char:EOLhyphen"/>veller for the refreſhing Shade; and the labourious Husbandman for the Night of Reſt after the
+<pb n="66" facs="tcp:174812:34"/> ſcorching Day. And ſo her time was come to enter into the Joy of her Lord, and died in Peace.</p>
+            <p>She had her Infirmities and Fits of Paſſion, for which ſhe would be grieved, and very ſorry; but it was no wonder, conſidering her violent Pain, and long Afflicti<g ref="char:EOLhyphen"/>on: But ſhe held faſt her Inte<g ref="char:EOLhyphen"/>grity, and loved Chriſt more and more.</p>
+            <p>O, what a Feaſt had they that often converſed with her! Had you but beheld a little poor pined Body, and heard ſuch great things declared by her, it would have been far more wonderful, than to read theſe things.</p>
+            <p>O the ſight of Glory that ſhe had! The Conqueſt of Death, and the daily longing to be with Chriſt! Her Life was continued as a great Example to others,
+<pb n="67" facs="tcp:174812:34"/> and it will be well if ſhe never may be forgotten.</p>
+            <p>She is now dead, yet ſpeaketh. And may this ſmall Account (which is but the Fragments of what might have been gathered) be for the Glory of God'<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> rich Grace, and to extol the Teach<g ref="char:EOLhyphen"/>ings of his Spirit, and to declare the Excellency of an Immortal Soul, and what it is capable of; then we ſhall anſwer ſo great a Work of God, which was ſo publick, and not done in a Cor<g ref="char:EOLhyphen"/>ner.</p>
+            <p>She might have been as a ſtu<g ref="char:EOLhyphen"/>pid, poor, ignorant, and inſen<g ref="char:EOLhyphen"/>ſible Creature; but by the Spirit of God quickning and enlivening of her, was like the Box of Oint<g ref="char:EOLhyphen"/>ment poured out upon Chriſt, which cauſed a ſweet Savour throughout the whole Houſe. O
+<pb n="68" facs="tcp:174812:35"/> may this never be forgotten by her Father, nor Mother, Brother nor Siſter, nor any of her Viſi<g ref="char:EOLhyphen"/>ters. <hi>Glory to God in the higheſt.</hi>
+            </p>
+            <p>She died about the tenth of <hi>April,</hi> A. D. 1683.</p>
+         </div>
+         <div type="passages">
+            <pb n="69" facs="tcp:174812:35"/>
+            <head>
+               <hi>Some memorable Paſſages of</hi> Joſeph, <hi>the Son of</hi> Jo<g ref="char:EOLhyphen"/>ſeph <hi>and</hi> Margaret Scol<g ref="char:EOLhyphen"/>ding <hi>of</hi> Middleton, <hi>in the County of</hi> Suffolk, <hi>aged about ſix Years and an half, died the 4th of</hi> June, 1678.</head>
+            <p n="1">1. ABout a Year and an half before he died, being very ill, ſo as he could not ſleep, his Fa<g ref="char:EOLhyphen"/>ther asked him if he could not ſleep? he anſwered his Father, that he could not ſleep; but ſaid he, I ſhall ſleep a long Sleep: How long? ſaith his Father; he repli<g ref="char:EOLhyphen"/>ed,
+<pb n="70" facs="tcp:174812:36"/> Till Chriſt ſhall come to awake you and me, and all the World: His Father asked him, how he knew that? How, ſaith he, do you not believe that the Word of God is true? At the Reſurrection then ſhall Chriſt awake every one.</p>
+            <p n="2">2. At another time he had a little Potion of Phyſick to take, which he was very unwilling to do, but ſaith his Father, If you love me, take it. Well Father, ſaith he, to ſatisfy you, I will take it; and when he had taken it, ſaith he, I pray God bleſs it to me. And ſaith he, <hi>The An<g ref="char:EOLhyphen"/>gel gave</hi> John <hi>a little Book to eat, which was ſweet in his Mouth, but bitter in his Belly:</hi> This, ſaith he, is bitter in my Mouth, but if God pleaſe, he can make it ſweet in my Belly.</p>
+            <p n="3">
+               <pb n="71" facs="tcp:174812:36"/> 3. His Mother had often beg<g ref="char:EOLhyphen"/>ged of God, that if there were any means further to be uſed, he would direct to it.</p>
+            <p>There came a bad Man to the Houſe, pretending Skill, and was to take him in hand, and had be<g ref="char:EOLhyphen"/>gun. The Child's uſual way was continually to ſeek to God for a Bleſſing upon whatever he took, but then he refuſed, having theſe Expreſſions, I care not whether he do or not; Do you think God will bleſs ſuch a wicked Man's Phyſick?</p>
+            <p n="4">4. He having heard Mr. <hi>Win<g ref="char:EOLhyphen"/>cop</hi> preach, did repeat ſome of the Sermon, wherein was expreſſed, how a Chriſtian ſhould examine himſelf, concerning three things.</p>
+            <list>
+               <item>1. Whoſe am I?</item>
+               <item>2. Where am I?</item>
+               <item>3. Whither am I going?</item>
+            </list>
+            <pb n="72" facs="tcp:174812:37"/>
+            <p> If I be in the narrow way to Heaven, well and good; but if in the broad way to Ruine and Deſtruction, then I am undone for ever.</p>
+            <p>The Child would ſpeak it in the Houſe, and privately to him<g ref="char:EOLhyphen"/>ſelf, with much Affection, and ſometimes with many Tears: <hi>Whoſe am I? Where am I? Whi<g ref="char:EOLhyphen"/>ther am I going?</hi> And alſo would ſpeak it to his Fellows, Whither are you going? To be ſure you are in the broad way to Ruin.</p>
+            <p n="5">5. If at any time he ſaw any thing amiſs among the Servants or Children, he would ſay, If you will not keep God's Command<g ref="char:EOLhyphen"/>ments you ſhall never come to Heaven, and if they loved God, they would keep his Command<g ref="char:EOLhyphen"/>ments: When they would reply, We do but as others; he would anſwer, If you ſin with the Mul<g ref="char:EOLhyphen"/>titude,
+<pb n="73" facs="tcp:174812:37"/> ye muſt periſh with the Multitude.</p>
+            <p>It were better to go to Heaven alone, than to Hell with Compa<g ref="char:EOLhyphen"/>ny.</p>
+            <p n="6">6. His extraordinary care con<g ref="char:EOLhyphen"/>cerning the Lord's-Day was ſuch, that he would watch over the the whole Family, and would ſay, You ſhould not do ſo and ſo, but ſpend the Day in Prayer, Read<g ref="char:EOLhyphen"/>ing, and other Religious Exer<g ref="char:EOLhyphen"/>ciſes. He did make Conſcience of praying by himſelf three or four times in the day.</p>
+            <p n="7">7. He would often be enqui<g ref="char:EOLhyphen"/>ring what Souls ſhould do in Hea<g ref="char:EOLhyphen"/>ven? his Father would tell him, There is nothing but praiſing of God: He would then reply, Then they ſhall alſo leave ſinning.</p>
+            <pb n="74" facs="tcp:174812:38"/>
+            <p> O, it is a rare thing to be in Heaven!</p>
+            <p n="8">8. At another time he ſaid, If I were ſure I ſhould go to Heaven, I ſhould be glad to die at this preſent Age, at the preſent. His Mother replied, And wouldſt thou leave thy Father and me? to which he anſwered, I have a good Fa<g ref="char:EOLhyphen"/>ther and Mother, but God is a better Father: you make me eat and drink; but if I get to Hea<g ref="char:EOLhyphen"/>ven, I ſhall need no Light of the Sun, nor Candle, nor Victuals any more for ever.</p>
+            <p>At another time Mr. <hi>Wincop</hi> came to ſee him, he asked him, If he thought he ſhould be ſaved? and he ſaid, he could not tell. He asked him, if he did not think Chriſt died for Sinners? he anſwered, Yes: and he asked
+<pb n="75" facs="tcp:174812:38"/> him if he did not think all were Sinners? he told him, Yes; and he was a Sinner, but God had made him a good Sinner.</p>
+            <p n="10">10. At a time beginning to eat his Victuals, forgetting to crave a Bleſſing upon it, he ſaid, What a deſperate Wretch am I! God might have ſuffered the Food to choak me.</p>
+            <p n="11">11. Being one day in the Gar<g ref="char:EOLhyphen"/>den, and ſeeing a Pear dropping off the Tree, which the Birds had pecked; I wonder, ſaith he, where<g ref="char:EOLhyphen"/>fore theſe Birds were made: after ſtanding a little while; O, ſaith he, what a deſperate Wretch am I! God made all things, and all that God made was good.</p>
+            <p n="12">12. About a Year and a half before he died, one Morning as he lay in his Bed very ill, his Mo<g ref="char:EOLhyphen"/>ther
+<pb n="76" facs="tcp:174812:39"/> coming up, he called, Mo<g ref="char:EOLhyphen"/>ther, and ſaid, I am thinking how my Soul ſhall get to Hea<g ref="char:EOLhyphen"/>ven when I die; my Legs cannot carry it, the Worms ſhall eat them: No, ſaid his Mother, God will ſend his Angels, and they ſhall carry it to Heaven: O, ſaid he, the Angels ſhall carry it to Chriſt, and Chriſt ſhall carry it to God!</p>
+            <p>Now Mother go down, I will lie ſtill.</p>
+            <p n="13">13. One time his Mother going to the Oven, and ſeeing a great Fire flaming out of the Oven; here is, ſaith he, a great and grie<g ref="char:EOLhyphen"/>vous Fire: little do wicked Men think what God is; he hath a worſe Fire to burn wicked Men in.</p>
+            <p n="14">14. One coming into the Houſe, he called him by his Name, and
+<pb n="77" facs="tcp:174812:39"/> ſaid, You will be glad to go to Heaven when you die; but you will never come there, if you leave not your Swearing, and keep God's Commandments.</p>
+            <p n="15">15. At another time in the Night being reſtleſs, his Mother ſaid, <hi>Joſeph,</hi> Why doſt thou not lie ſtill? He anſwered, That he dreamed ſuch deſperate things as did affright him, and ſaid, If God pleaſe, I would be glad to die before my Father and you, for if I live longer, I am afraid I ſhould ſwear and be as wicked as ſuch a one, and naming the Perſon.</p>
+            <p n="16">16. At another time his Father being very ill, and Mr. <hi>Wincop</hi> praying with him, he ſtood by the Bed-ſide, and wept, and ſaid, When my Father, and ſuch and ſuch die, they ſhall get into Chriſt's
+<pb n="78" facs="tcp:174812:40"/> Boſom; but if I might get to his Feet, I care not.</p>
+            <p n="17">17. At another time he was enquiring concerning the three Perſons, God the Father, God the Son, and God the Holy-Ghoſt, and ſaid, I know God is Chriſt's Father, and Chriſt is God's Son; but who is the Holy-Ghoſt?</p>
+            <p n="18">18. Hearing the 9th Chapter of <hi>John</hi> read how the Phariſees caſt out the blind Man, and Chriſt took him in, It was well, ſaid he, for that poor Man, that when the Phariſees caſt him out, Chriſt ſtood ready to take him in.</p>
+            <p n="19">19. A little before his End, he pondered much upon that, Whe<g ref="char:EOLhyphen"/>ther God was willing to ſave all the World, if they were willing? his Father ſaid, they were not
+<pb n="79" facs="tcp:174812:40"/> willing: to which he replied; Wicked Men are ſo proud, that they will not be beholden to God to ſave them.</p>
+            <p n="20">20. At another time in the Night his Thoughts were very much upon the Woman of <hi>Cana<g ref="char:EOLhyphen"/>an,</hi> and ſaid to his Mother, There was a poor Woman came to Chriſt, and ſhe would not go a<g ref="char:EOLhyphen"/>way till ſhe had that which ſhe came for, tho Chriſt called her Dog; no more will I.</p>
+            <p n="21">21. His Thoughts were much taken up with the Yoke of Chriſt, and ſaid, Chriſt that put his Righ<g ref="char:EOLhyphen"/>teouſneſs upon his, never put a Yoke upon any of his to hurt them; and lifted up himſelf. This was the Night before he died.</p>
+            <p n="22">
+               <pb n="80" facs="tcp:174812:41"/> 22. That Morning before he died, he ſaid, Father, do you think that God would ſave all the World if they would be ſaved? his Father ſaid, Aye: he replied to his Father, I would willingly be ſaved, and deſired his Father and his Mother to pray for him, ſaying, I am ſo ſick, that I can<g ref="char:EOLhyphen"/>not pray for my ſelf.</p>
+            <p>He was ſeveral Years before his Death found praying by himſelf alone.</p>
+            <p n="23">23. When his dying Fits were upon him, and the Sweat drop<g ref="char:EOLhyphen"/>ped from his Hair; he ſaid three times, <hi>Such hard Work, ſuch hard Work, ſuch hard Work,</hi> fixing his Eyes on two young Men-Servants in the Houſe, and he was asked, What was hard Work? he anſwered, <hi>To die, to</hi>
+               <pb n="81" facs="tcp:174812:41"/> 
+               <hi>die, the Lord help me:</hi> And he ſaid to the two Young Men-Servants; O, Sirs, look to pre<g ref="char:EOLhyphen"/>pare to go to Heaven when you die.</p>
+            <p>He revived a little, and his Mother asked him, Wherefore Chriſt died? he anſwered, To ſave Sinners: She ſaid, Doſt thou think he will ſave thee? He made a little ſtay, and ſaid, I hope ſo.</p>
+            <p>He gave his Mother leave to go from him, but ſhe was ſoon called again, and ſhe took up his Fingers that were half dead, and ſaid, Theſe Fingers will not be long here; he replied, No Mother, I thought they would have been gone before now: She asked him, Whither he ſhould go? he anſwered, to God and to Chriſt: She asked him
+<pb n="82" facs="tcp:174812:42"/> again, if he thought he ſhould go to God? he anſwered, To my God, and to my Chriſt; and ſmiled, and ſlept in the the Lord.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:174812:42"/>
+            <pb facs="tcp:174812:43"/>
+            <pb facs="tcp:174812:43"/>
+         </div>
+      </body>
+   </text>
+</TEI>
